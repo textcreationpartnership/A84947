@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theios divine beames of glorious light. Shining from the sacred scriptures, which expell the fogges of error, that engender darknesse, in doubting soules, by mistaken thoughts, touching the diety, faith, and Christain ordinances. With a cordial to heal the corasives which the ill potion prepared by Mr. John Fry, a late member of Parliament, hath ingendred. / Written by one, who desires more that God may be glorified, then to affix his name to gain the vaine applause of man. Licensed and entered in the Stationeers Hall book.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84947</idno>
+            <idno type="STC">Wing F2256</idno>
+            <idno type="STC">Thomason E625_10</idno>
+            <idno type="STC">ESTC R206458</idno>
+            <idno type="EEBO-CITATION">99865615</idno>
+            <idno type="PROQUEST">99865615</idno>
+            <idno type="VID">117861</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117861)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E625[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theios divine beames of glorious light. Shining from the sacred scriptures, which expell the fogges of error, that engender darknesse, in doubting soules, by mistaken thoughts, touching the diety, faith, and Christain ordinances. With a cordial to heal the corasives which the ill potion prepared by Mr. John Fry, a late member of Parliament, hath ingendred. / Written by one, who desires more that God may be glorified, then to affix his name to gain the vaine applause of man. Licensed and entered in the Stationeers Hall book.</title>
+                  <author>Fry, John, 1609-1657, Attributed name.</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed in Wing to John Fry, but actually appears to be a reply to his: The accuser sham'd.</note>
+                  <note>The first word of the title is printed in Greek characters.</note>
+                  <note>The words "diety, faith, and Christian ordinances." are enclosed by a bracket on the title page.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "March. 1st 1650"; also the final two characters of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fry, John, 1609-1657. --  Accuser sham'd.</term>
+               <term>Trinity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117861:1" rendition="simple:additions"/>
+            <p>ΘΕΙΟΣ DIVINE BEAMES OF GLORIOUS LIGHT.</p>
+            <p>Shining from the ſacred Scriptures, which expell the Fogges of Error, that Engender darkneſſe, in doubting ſoules, by miſtaken thoughts,</p>
+            <p>TOUCHING The
+<list>
+                  <item>
+                     <hi>Diety,</hi>
+                  </item>
+                  <item>
+                     <hi>Faith,</hi> And</item>
+                  <item>
+                     <hi>Chriſtian Ordinances.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>WITH A Cordial to heal the Coraſives which the ill potion prepared by Mr. <hi>John Fry,</hi> a late <hi>Member</hi> of <hi>Parliament,</hi> hath ingendred.</p>
+            <p>
+               <hi>Written by one, who deſires more that God may be glo<g ref="char:EOLhyphen"/>rified, then to affix his name to gain the vaine applauſe of Man.</hi>
+            </p>
+            <p>
+               <hi>Licenſed and Entered in the Stationers Hall Book.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed by <hi>Robert Ibbitſon</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117861:2"/>
+            <pb n="1" facs="tcp:117861:2"/>
+            <head>Divine Beames of glorious Light, ſhi<g ref="char:EOLhyphen"/>ning from the ſacred Scriptures, which ex<g ref="char:EOLhyphen"/>pel the fogs of error that ingender dark<g ref="char:EOLhyphen"/>nes in doubting ſoules, by miſtaken thoughts touching the <hi>Diety, Faith,</hi> and <hi>Chriſtian Or<g ref="char:EOLhyphen"/>dinances,</hi> with a Cordial to heale the Coraſive which the ill potion prepared by Mr. <hi>John Fry,</hi> a late Member of Parli<g ref="char:EOLhyphen"/>ament hath ingendred.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Philoſophers, though generally they conform<g ref="char:EOLhyphen"/>ed their judgements to Reaſon, yet the moſt ſollid of them acknowledged there was a God (though not to be attained unto by that ſtudy) which they called the <hi>unknown God,</hi> Act. 17.23.</p>
+            <p>Divine love in regeneration teacheth us that there is a God, whom though now with corrupted dark reaſon we cannot ſee, yet by faith we can beleeve, by the rules of Scripture ſerve, and through hope waite for, calling upon his name.</p>
+            <p>But ſom (who have profeſſed Religion) preſume to be above Ordinances, whilſt the Atheiſts doe deride and ſcorne them, both which contract an equall ſhare in guilt, as fighters againſt the Government of Jeſus Chriſt in his Church here on earth.</p>
+            <p>And in this Satanicall deſigne againſt the Lord Jeſus, ſome are great ſtrivers to defame thoſe that diſpence the word and Sacraments, that ſo Religion may the more eaſily be over<g ref="char:EOLhyphen"/>turned, and every man do any wickedneſſe that ſeems good in his own eyes which ought not ſo to be, <hi>Deut.</hi> 12.8.</p>
+            <p>I deſire all ſolid Chriſtians to ſearch their own hearts, and there deale plainly with their own conſciences, whether there be not uſually a nearer communion with God in the Ordinan<g ref="char:EOLhyphen"/>ces then in any other diſpenſation.</p>
+            <p>Whoſoever thou art, that haſt ever taſted of the ſweetneſſe of
+<pb n="2" facs="tcp:117861:3"/>God and his love, tell me when waft thou ſo much filled with comfort from Gods preſence, as at ſuch a time, when thou haſt heard ſuch or ſuch an heart breaking Sermon; or in prayer with ſuch or ſuch holy people, or in thy cloſet, or at ſome pub<g ref="char:EOLhyphen"/>lique or private devotion.</p>
+            <p>Nay more, who is there that hath ſweet communion with God, that ſometimes after a dull and dead affection heaven<g ref="char:EOLhyphen"/>ward, having prayed, and implored the Throne of grace, be<g ref="char:EOLhyphen"/>fore they have done wraſtling with God, as <hi>Jacob</hi> did with the Angel, have not many a time at laſt found ſo great a bleſ<g ref="char:EOLhyphen"/>ſing, that their hearts have been even ſwallowed up with divine raviſhments of God.</p>
+            <p>I have been much troubled to ſee what hath been publiſhed by ſome, pretenders to promote Religion, and yet levelled to o<g ref="char:EOLhyphen"/>verthrow the doctrine of the diety, the preaching of the goſ<g ref="char:EOLhyphen"/>pell, and the adminiſtration of the Ordinances.</p>
+            <p>Amongſt the reſt, there are ſome things that have been de<g ref="char:EOLhyphen"/>clared by Mr. <hi>John Fry,</hi> (a late Member of, but) Voted againſt by the Parliament, concerning which, I ſhall briefly give you my thoughts.</p>
+            <p>Hee himſelfe ſaith, hee deſires to ſtand and fall according to judgement and reaſon: He hath aſſerted, and here I ſhall aſſert too, and then let Scripture judge; and I aſſure you I look not on his perſon in my exceptions; The intereſt I aime at herein is onely to advance Chriſt, and his truth againſt gain-ſayers.</p>
+            <p>Neither doe I make any apology for the factious Presbyte<g ref="char:EOLhyphen"/>rians, or Prelates, nor any others of the troublers of <hi>Iſrael,</hi> who diſquiet the comforts of thoſe poor ſouls who through experi<g ref="char:EOLhyphen"/>ence (without litterall learning) have ſweet out-flowings in ſociety with each other, through the internall power of the di<g ref="char:EOLhyphen"/>vine workings.</p>
+            <p>And in this let reaſon judge, (whether he appeales himſelfe) If ſtudies, with ſerious conſiderations; taking the aſſiſtance of the learned works of predeceſſors, (as hand-maides to the me<g ref="char:EOLhyphen"/>ditations of preachers of the Goſpell) will not adde to, and illuſtrate their abilities to preach to others; And whether pre<g ref="char:EOLhyphen"/>meditated Sermons be not moſt beneficiall to the auditors. If not to helpe their own judgements, yet their expreſſions.</p>
+            <p>
+               <pb n="3" facs="tcp:117861:3"/>
+My thoughts are, to have an high eſteeme of all ſuch as are precious in Gods account, who is good to the Saints under variety of diſpenſations, yet even Saints experiences though good to themſelves, may (when miſ-ſpoken) through miſtakes, prove of evil effect to others, who take them upon other grounds then the Saints apprehended them. And whoſe judge<g ref="char:EOLhyphen"/>ment is ſo infallible, that they may not poſſibly in ſome things take opinion for truth, when they ſpeak their own imaginati<g ref="char:EOLhyphen"/>ons, and thinke it to be a truth ſetled on their hearts by God; Maſter <hi>Fry</hi> confeſſeth he cannot meet with any that goes with him in his way, and you know there is a woe denounced againſt him that is alone.</p>
+            <p>And for the Aſſembly of Divines (thoſe that now ſit; For the diſſerters, I have nothing to plead for them) I could Ca<g ref="char:EOLhyphen"/>talogue them one by one, and tell you where, and how often they preach every weeke in their reſpective places, even as the Oracles of God, and to the great comfort of their Auditors, amongſt whom are many precious ſoules. In that he pretends to take example by the noble <hi>Bereans</hi> to ſearch the Scriptures, he doth well if he doth ſo, but I would deſire him to reflect upon his owne actions, and ſee wherein he hath not followed them, and let him tell me, if ever he found them or any o<g ref="char:EOLhyphen"/>ther holy people to publiſh what they concurred not with, as Crimes againſt the devout Clergy that taught them, but ra<g ref="char:EOLhyphen"/>ther put up hearty prayers to God in Chriſt, to make them able Miniſters of the Goſpel, 2 <hi>Cor.</hi> 1.11. <hi>Phil.</hi> 1.4.10. <hi>Rom.</hi> 15.30. <hi>Phil.</hi> 4.22.</p>
+            <p>And though he hath followed <hi>Hagar</hi> with <hi>Iſhmael</hi> to the Well, then ſo neare her to preſerve them, when they were ready to faint for want of water, yet if with <hi>Iobs</hi> Wife in his miſtakes, he traduce men to blaſpheame God, I hope I may tell him as <hi>Job</hi> told his Wife, that he ſpeaketh as one of the fooliſh women, <hi>Job</hi> 2.9, 10. and ſo give a check to his error, and preſent a Cordiall to the people, to heale the Coraſive his ill prepared potion hath ingendred:</p>
+            <p>As for the verball errours and contradictions by ſome deli<g ref="char:EOLhyphen"/>vered in Pulpits, it is no wonder, <hi>Humanum eſt errare,</hi> in ma<g ref="char:EOLhyphen"/>ny things we offend all; yea thoſe great Miniſters ſent out by
+<pb n="4" facs="tcp:117861:4"/>ſuch a glorious viſible Call, in ſome externall things differed, and had great diſputes, <hi>Gal.</hi> 2.11. And it cannot be expected that we can attaine to perfection here on earth, whilſt we re<g ref="char:EOLhyphen"/>maine in this corruptible naturall body, where at the beſt whilſt we are in the fleſh, we know in part, and we propheſie in part, 1 <hi>Cor.</hi> 13.9, 10, 11.</p>
+            <p>Therefore the Lord hath ſo glorouſly provided a Diſcipline for the Church, by which it is to be built up according to the rule of the Scriptures, which we are to ſearch and follow all our dayes.</p>
+            <p>And whatever Papiſts ſay, it is not with us as with them, for they beleeve the Scripture no otherwiſe then as the Church beleeves; but we preach that the Church is to be beleeved in what it concurres with the Word, and as <hi>Paul</hi> ſaith, ſo ought every Miniſter of the Goſpel to teach, ſaying, <hi>So follow me,</hi> even as I follow Chriſt, which is the rule of Gods Word, 2 <hi>Theſſ.</hi> 3.7, 8, 9. <hi>Heb.</hi> 13.7. 1 <hi>Pet.</hi> 2.21. And we have great cauſe to bleſſe God for the flouriſhing of the Goſpel, and liberty which he hath given the Saints, to ſerve him in ſo much peace as is at this day in this Nation.</p>
+            <p>Indeed for one of Mr. <hi>Fryes</hi> aſſertions, I doe not ſee but we may very well cloſe with it, I doe not know any Orthodox Miniſter in <hi>England</hi> that will deny it, <hi>(viz.)</hi>
+            </p>
+            <p>
+               <hi>That men cannot juſtly be taxed with immodeſty, or turbulency of ſpirit, for not cloſing with all their Teachers would obtrude upon them, if after a carefull and conſcionable ſearch, they finde no footing for ſuch things in the Scriptures.</hi>
+            </p>
+            <p>But yet Chriſtians muſt take heed they doe not under that pretence like <hi>Alexander</hi> the Copper-ſmith, deſigne great evils againſt the ſincere Preachers of the Goſpel, for the Lord will reward ſuch according to their workes; and of ſuch the Apo<g ref="char:EOLhyphen"/>ſtle bids the Saints beware, as with-ſtanders of the Goſpel of ſalvation preached to the people, 2 <hi>Tim.</hi> 4.14, 15.</p>
+            <p>As for that great Controverſie he makes about <hi>Free-will,</hi> wherein he ſaith, there is a great contradiction in what is taught; I cannot inſiſt upon every thing what every man ſaith, yet becauſe thoſe ſeeming contradictions that he al<g ref="char:EOLhyphen"/>ledgeth may become a ſtumbling block to ſimple people, if not
+<pb n="5" facs="tcp:117861:4"/>cleared, give me leave meekly to vindicate thoſe Scriptures, and cleare the truths.</p>
+            <p>Firſt, he alledgeth, 1 <hi>Cor.</hi> 3.5. <hi>Phil.</hi> 2.13. <hi>Epheſ.</hi> 3.8. <hi>James</hi> 1.17. as croſſing, <hi>Iſa.</hi> 1.16. <hi>Iſa.</hi> 5.4. <hi>Phil.</hi> 2.12. but if you mark the ſcope of 2 <hi>Cor.</hi> 3.5, 2 <hi>Cor.</hi> 9.8. you wil finde theſe places of Scripture wil be eaſily reconciled; our ſufficiency is of God, but it is ours when God hath given it us, when God inables us we can waſh and be cleane; when he gives us power we can put away the evil we before acted: As a ſick man whom God gives an appetite to, can then eate.</p>
+            <p>Conſider but this, That the ſame God ſaith, that in him we live and move, and have our being, <hi>Acts</hi> 17.28 yet we know that God gives us meanes to live, and that is by food; Is it not in mans will to eate and live (for a time in this life) or faſt, and dye; I doe not ſay man hath this power at all times when he will; there is a time, at which and at no time elſe, it may be ſaid, <hi>Now is the appointed time,</hi> Jer. 8.7. Dan. 11.35.</p>
+            <p>There is a glorious harmony in the Scriptures, if they be not miſ-underſtood, as thoſe who are led by carnall reaſon cannot but doe, but the right knowledge of the Word is Spi<g ref="char:EOLhyphen"/>rituall, by beleeving, <hi>Rom.</hi> 8. <hi>John</hi> 1. &amp;c.</p>
+            <p>Another parcell of Scriptures he hath gathered, and ſaith, that if we tye our ſelves to the bare letter, we ſhal finde but little harmony between them (viz.) <hi>Iſa.</hi> 1.16, 17. <hi>Phil.</hi> 2.12. <hi>Mat.</hi> 11.28. with <hi>Joh.</hi> 6.4. and 2 <hi>Cor.</hi> 3.5. with <hi>Jam.</hi> 1.17. The former rule wil help us to reconcile theſe places of Scrip<g ref="char:EOLhyphen"/>ture alſo. It is true, no man can come unto Chriſt except the Father draw him; but when God by his Spirit hath broken their hearts, and made them weary with the load of their ſins, and drives them to thoughts of a neceſſity of ſeeking Chriſt, and to behold mercy tendred by Chriſt, then they are by his Spirit enabled if they wil to goe to Chriſt, even when he by his Spirit knocks at the doores of their hearts; without Chriſt we can doe nothing, <hi>Iohn</hi> 15.5. but in Chriſt we can doe all things through him that ſtrengthens us, <hi>Phil.</hi> 4.13. And ſo againe it is true, we cannot of our ſelves thinke a good thought, but when God gives us a ſufficient meaſure of grace, we can then through Chriſt work out our ſalvation with fear and
+<pb n="6" facs="tcp:117861:5"/>trembling, <hi>Phil.</hi> 2.12. and by faith, in the power of Chriſt, lay hold on eternal life, 1 <hi>Tim</hi> 6.12. not in our own ſtrength, but in that ſufficiency which we have from God, 2 <hi>Cor.</hi> 3.5. And a<g ref="char:EOLhyphen"/>gaine, every good and perfect guift is from God, but when God tenders the meanes of grace, we may waſh and be cleane, though not of our ſelves, yet in his ſtrength, his grace is ſuffici<g ref="char:EOLhyphen"/>ent for us, 2 <hi>Cor.</hi> 12 9. There is a time wherein if we ſeek God he will be found, which if let ſlip, perhaps we ſhal never injoy ſuch an opportunity again, <hi>Mat.</hi> 23.37.</p>
+            <p>Now I pray you tell me (whoſoever will ſeriouſly lay it to heart) whether this method hath not more of Goſpell truth in it, and gives not more ſatisfaction and comfort to a dejected ſoul then M. <hi>Fryes</hi> deciſions, and thoſe needleſſe diſcords which he raiſeth to diſturbe the harmony of the ſacred Scriptures, and obſtruct the way of preſſing the people to an hearty ſeeking God in his Ordinances, which he ſeems to diſcourage; Though after<g ref="char:EOLhyphen"/>wards he would ſeem to minſe it.</p>
+            <p>But to paſſe by theſe, and ſome other particulars that I might inſiſt upon; I ſhall cheifly faſten on the moſt materiall excep<g ref="char:EOLhyphen"/>tions in both his bookes, declared againſt by the Parliament, <hi>viz.</hi>
+            </p>
+            <p n="1">1. <hi>Exception,</hi> Mr. <hi>Fry</hi> ſaith in his booke entituled, <hi>The Ac<g ref="char:EOLhyphen"/>cuſer ſhamed, &amp;c,</hi> Thus, <hi>viz. That chaffy and abſurd opi<g ref="char:EOLhyphen"/>nion of three perſons or ſubſiſtences in the Godhead; That groſſe and carnal opinion of three diſtinct perſons or ſubſi<g ref="char:EOLhyphen"/>ſtences in the Godhead: perſons and ſubſiſtences, are ſubſtan<g ref="char:EOLhyphen"/>ces or accidents. As for the word</hi> perſon, <hi>I do not underſtand that it can be properly attributed but to man. It is out of doubt with me, that if you ask the moſt part of men what they mean by a perſon, they wil either tel you 'tis a man, or elſe they are not able to give you any anſwer at all. And for the word</hi> accident, <hi>I ſuppoſe none wil attribute that to God; For ac<g ref="char:EOLhyphen"/>cording to my poor skil, that word imports no more but the ſigure or colour</hi> &amp;c. <hi>of a thing; and certainly no man ever ſaw the likeneſſe of God, as the Scriptures abundantly teſtifie. And therefore neither of the words, perſons or ſubſiſtences,
+<pb n="7" facs="tcp:117861:5"/>can hold forth ſuch a meaning as Accidents in God.</hi> Atha<g ref="char:EOLhyphen"/>naſius <hi>in his</hi> Creed <hi>ſaith,</hi> There is one perſon of the Fa<g ref="char:EOLhyphen"/>ther, another of the Son, and another of the Holy Ghoſt; <hi>others ſay,</hi> That there is three diſtinct ſubſiſtences in God <hi>Wel, theſe three perſons or ſubſiſtences cannot be accidents neither do I think it is the meaning of any. Then certainly they muſt bee ſubſtances: if ſo, then they muſt be created or uncreated, limited or unlimited: if created and limited, then the perſon of the Father is a creature, the perſon of the Son a creature, and the perſon of the Holy Ghoſt a creature, which I think none will affirm: If they are not created or limited, then they muſt be uncreated or unlimited, for I know no</hi> medium <hi>between created and uncreated, limited and unlimited: If they are uncreated and unlimited, then there are three uncre<g ref="char:EOLhyphen"/>ated and unlimitea Subſtances, and ſo conſequently three Gods. For my part I find no footing for ſuch expreſsions in Scripture, and I think them fit only to keep ignoraut people in carnal and groſs thoughts of God, and therefore I do ex<g ref="char:EOLhyphen"/>plode them out of my</hi> Creed.</p>
+            <p>The cheife of Mr. <hi>Fryes</hi> diſcourſe here, is againſt the words <hi>Subſiſtance, Trinity, Perſon,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> aſcribed to the diety, con<g ref="char:EOLhyphen"/>cerning which, any Chriſtian who beleeves the Scriptures may receive full and ample ſatisfaction from them, I will inſiſt on each particular. <hi>viz.</hi>
+            </p>
+            <p n="1">1 Touching the word <hi>Subſiſtance,</hi> The word of the Lord ſaith, <hi>God hath ſtrength and wiſdome,</hi> Job 12.16. And he is the fountaine of eſſence by which all things ſubſiſt and have their being, <hi>Act.</hi> 17.28. And he is therefore called in the He<g ref="char:EOLhyphen"/>brew, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Jehovah, Jah, Ebie,</hi> all derivitives of the Radix <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to be, or have ſubſiſtance; and ſo acknowledged by the Apoſtle, <hi>Rev.</hi> 1.4, 8. <hi>Rev.</hi> 11.17. <hi>Rev.</hi> 16.5. <hi>He that is, was, and is to come.</hi>
+            </p>
+            <p n="2">2 Touching the word <hi>Trinity,</hi> this Record is not onely in
+<pb n="2" facs="tcp:117861:6"/>earth, but hath been and ſhall be in heaven from eternity to e<g ref="char:EOLhyphen"/>ternity, for ever and ever, 1 <hi>Iohn</hi> 5.7. there are many places of Scripture to prove it, <hi>Matth.</hi> 18.19. 2 <hi>Corin.</hi> 13.14. <hi>Matth.</hi> 3.16, 17. <hi>Hag.</hi> 2 5. <hi>Pſa.</hi> 33.6. <hi>Rev:</hi> 1.4, 5. 1 <hi>Cor:</hi> 12.4, 5, 6. <hi>Eph:</hi> 2.18. <hi>Eph:</hi> 2.22 <hi>Eſa:</hi> 63.9, 10. <hi>Iob</hi> 14.16. <hi>Iohn</hi> 15.26, <hi>Gal:</hi> 4.6. 1 <hi>Theſ:</hi> 3.11, 12. 2 <hi>Theſ:</hi> 3.5. and many more Texts of the Word of the Lord.</p>
+            <p n="3">3 Touching the word <hi>Perſon,</hi> It is a Scripture phraſe uſed to the diety, <hi>Heb.</hi> 1.2, 3. And this is more particularly laid down touching the peſons in the Trinity, <hi>viz.</hi> the Father, <hi>Mat.</hi> 18.10. the Son, 2 <hi>Cor.</hi> 2.10. 2. <hi>Cor:</hi> 4.6. and the holy Ghoſt, <hi>Pſal.</hi> 95 6. compared with <hi>Heb.</hi> 3.7. which is according to the perſonall actings aſcribed to the Trinity, <hi>Pſal:</hi> 2.7, 8. <hi>Pſal:</hi> 110.4. <hi>Cant:</hi> 2.1. <hi>Mal:</hi> 3.1. <hi>Cant:</hi> 4. <hi>ult. Acts.</hi> 1.16. <hi>Acts</hi> 4.24. <hi>Acts</hi> 10.1. <hi>Acts</hi> 13.2, 35. <hi>Iohn</hi> 11.42. <hi>Heb:</hi> 1:5: Rev: 2.2. 1 Cor: 12.4, 5, 6. 2 <hi>Cor:</hi> 13.14: 2 <hi>Theſſ:</hi> 2.16. <hi>Gal:</hi> 1.1. <hi>Epheſ:</hi> 5.5. <hi>Rev:</hi> 1.4.5.</p>
+            <p>
+               <hi>Damaſcen</hi> doth thus in his judgement prove the Trinity by this demonſtration, <hi>
+                  <g ref="char:V">Ʋ</g>nus deus, non ſine verbo eſt,</hi> God being but one, is never without the Word: But this word he hath in himſelfe, begotten of his owne ſubſtance, not like unto our word, which hath no ſubſtance, but vaniſhes in the aire, be<g ref="char:EOLhyphen"/>cauſe the condition of our nature is temporall, but like as our word proceedeth from the mind <hi>neque per totum menti idem est &amp;c.</hi> is neither the ſame with the mind, nor yet altogether diverſe from it, ſo is the Son unto the Father, which is the word, the ſame in ſubſtance, but divers in ſubſiſtance, <hi>oportet autem &amp; ver<g ref="char:EOLhyphen"/>bum ſpiritum habere, nam &amp; verbum noſtrum nequaquam ſpiritus eſt ex<g ref="char:EOLhyphen"/>pers:</hi> But the word alſo muſt have a ſpirit, for neither is our word without a ſpirit: But here is a difference, our ſpirit is not of the ſame ſubſtance with us, but the drawing in of the aire, for we are of a compound nature, but the ſpirit of the word, is of the ſame ſubſtance with the word, <hi>Damaſcen, lib.</hi> 1. <hi>de fide orthodox. ca.</hi> 6, 7.</p>
+            <p>And to amplifie it yet further, he ſaith in the ſame place; <hi>Impoſſibile eſt Deum deſtitutum eſſe native faecunditatis, &amp;c.</hi> It is im<g ref="char:EOLhyphen"/>poſſible that God ſhould be deſtitute of naturall fecundi<g ref="char:EOLhyphen"/>ty; The Lord there fore muſt needs beget, <hi>ſed expropria ſubſtan<g ref="char:EOLhyphen"/>tia generat,</hi> but he begetteth out of his owne ſubſtance, and that
+<pb n="9" facs="tcp:117861:6"/>from all eternity; for if the Son had not been from the begin<g ref="char:EOLhyphen"/>ning co-exiſtent with him of whom he was begotten, we ſhall bring in a change of his ſubſtance; <hi>nam cum non eſſet pater, postea factum eſt pater,</hi> for ſo when he was yet no Father, he afterwards ſhould become a Father, <hi>Damaſ. idem.</hi>
+            </p>
+            <p>And <hi>Bernerd</hi> ſaith, <hi>ubi numerus, &amp;c.</hi> where is the number? But here I have what I may number, and what I may not number, there is one ſubſtance, and three perſons, &amp;c. <hi>Bernerd</hi> lib. de conſiderat.</p>
+            <p n="4">4. Touching the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> of the Diety, the Scriptures plainly declare that God is one, <hi>Deutre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n:</hi> 6.4. <hi>Jſay</hi> 44.6. <hi>Iohn</hi> 17.3. yea; And in the decalogue the very firſt command is, <hi>Thou ſhalt have none other Gods but mee,</hi> neither of which Mr. <hi>Fry</hi> can deny, exeept he will explode them alſo out of his Creed, which if any will not ſubmit to, let them here conſi<g ref="char:EOLhyphen"/>der reaſon from <hi>Damaſcen.</hi>
+            </p>
+            <p n="1">1. <hi>Deus perfectus eſt, &amp;c.</hi> God is perfect, <hi>Si multo afferimus Deos, in multis differentiam contemplari oportet;</hi> if we affirm many gods, in many wee muſt needs find a difference: <hi>Si autem differentia in eis, ubi perfectio;</hi> But if there be a difference among them, where is their perfection? For if there be difference in reſpect of wiſdome, goodneſſe, vertue, <hi>à perfecto deficit,</hi> there is a failing in perfection, if there be no difference but an <hi>identi<g ref="char:EOLhyphen"/>ty,</hi> there muſt alſo needs be an unity in the God head.</p>
+            <p n="2">2 <hi>Deus incircumſcriptum eſt,</hi> God is uncircumſcrible, he can<g ref="char:EOLhyphen"/>not be circumſcribed, defined, or limited to a place, <hi>Quomodo ſi multis diverſi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſum, incircumſcripti erunt, &amp;c.</hi> but they be many and divers, how can they be incircumſcrible? for whereſoever is one, there cannot be another.</p>
+            <p n="3">3 <hi>Differentia contrarietatem inducit, &amp;c.</hi> difference bringeth con<g ref="char:EOLhyphen"/>trariety and repugnance: if then the world be governed by many, how can it be but it ſhould be corrupted and diſſolved? <hi>Attenta in his ipſis gubernantibus pugna;</hi> Conſidering the ſtrife betweene theſe Governours, <hi>Damaſcen</hi> lib: 1: deſid: orthodox cap: 5, 6, 7.</p>
+            <p>
+               <hi>Bernard</hi> ſets forth the unity of the God-head thus; God is one, but not as the Sunne or Moone is one, becauſe there is not another; but he is <hi>
+                  <g ref="char:V">Ʋ</g>nus ſibi, idem eſt ſemper &amp; uno modo.</hi> He
+<pb n="10" facs="tcp:117861:7"/>is one to himſelfe, the ſame alwayes, and after the ſame man<g ref="char:EOLhyphen"/>ner, ſo is not the Sunne and Moon. <hi>Clamat uter<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſe non eſſe u<g ref="char:EOLhyphen"/>num ſibi, ille motibus, iſta defectibus ſuis:</hi> Both of them proclaime, that they are not one and the ſame with themſelves, the one by his motions, the other by the waine and changes, <hi>Bernard, Lib.</hi> 5. <hi>de conſiderat.</hi>
+            </p>
+            <p n="2">II. <hi>Exception,</hi> Is to a Clauſe in Mr. <hi>Fryes</hi> booke, entituled, The Clergy in their Colours, (viz.) <hi>I cannot let paſſe one obſer<g ref="char:EOLhyphen"/>vation, and that is, the ſtrange poſture theſe men put them<g ref="char:EOLhyphen"/>ſelves into, when they begin their prayers before their Ser<g ref="char:EOLhyphen"/>mons; whether the fools and knaves in ſtage plays took their pattern from theſe men, or theſe from them, I cannot deter<g ref="char:EOLhyphen"/>mine</hi> &amp;c. <hi>what wry mouthes, ſquint eyes, ſcrew'd faces doe they make, &amp;c.</hi>
+            </p>
+            <p>This ſavours of much lightneſſe in Mr. <hi>Fry,</hi> like the carri<g ref="char:EOLhyphen"/>age of the Scribes and Phariſees to Chriſt and his Apoſtles, de<g ref="char:EOLhyphen"/>riding and ſcorning them for their devotion; and as the poor Publican was diſdained by the boaſting Phariſee, who ſmote upon his breaſt and prayed, ſaying, <hi>God be mercifull to me a ſinner.</hi>
+            </p>
+            <p>But Chriſts Apoſtles were of another minde, they rejoyced to heare of devout praying, yea the holy and bleſſed Spirit of God is promiſed to help the infirmities of thoſe whoſe deſires are ſo full that they cannot expreſſe themſelves, <hi>Rom.</hi> 8.</p>
+            <p>Yea and Jeſus Chriſt himſelfe wept, and groaned when he prayed at the raiſing of <hi>Lazarus,</hi> and fell down on the ground when he prayed in his Agony in the Garden; devotion (when it is moſt ſound and heavenly in the heart) will teach the mouth, <hi>Prov.</hi> 16.23. and ſtirre up the body to a zeale heaven<g ref="char:EOLhyphen"/>ward, as of ſincerity, as in the ſight of God, ſpeaking in Chriſt, 2 <hi>Cor.</hi> 2.17.</p>
+            <p n="3">III. <hi>Exception,</hi> Maſter <hi>Fry</hi> ſaith againe in the ſame book in deriſion of this devotion; <hi>How like a company of Conjurers doe they mumble out the beginnings of their prayers, that the people may not hear them? and when artificially they have raiſed their voyces, what a puling do they make?</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:117861:7"/>
+But this is very much for the advantage of the people, for when Miniſters begin with a loud voyce, their ſpirits are uſu<g ref="char:EOLhyphen"/>ally ſo ſpent, that before they have halfe done their Sermons, few can heare them in a large Congregation, and the voyce is much the clearer and plainer, the whole time of Prayer and Sermon by beginning low, and increaſing the elevation of their voyce.</p>
+            <p n="4">IV. <hi>Exception,</hi> out of the ſaid booke is this (viz.) Mr. <hi>Fry</hi> ſaith; <hi>I must confeſs I have heard much of beleeving things above Reaſon, and the time was when I ſwallowed that pill; but I may ſay as</hi> St. Paul, &amp;c. When I was a childe, &amp;c. <hi>Every man that knoweth any thing, knoweth this, that it is Reaſon that diſtinguiſheth a man from a beaſt. If you take away his Reaſon, you deny his very Eſſence and therefore if any man wil conſent to give up his Reaſon, I would as ſoon converſe with a beaſt as with that man: and whatſoever pretence ſome may make of Religion in this particuler, cer<g ref="char:EOLhyphen"/>tainly there is nothing elſe in it but ignorance and policy.</hi>
+            </p>
+            <p>Hereby is Heatheniſme much exalted by Mr. <hi>Fry,</hi> and the excellency of faith defaced, as doth very clearly appeare by the Goſpel.</p>
+            <p>Will you know what faith is? The Holy Ghoſt tels us in the Scriptures, <hi>That it is the ſubſtance of things hoped for, the evi<g ref="char:EOLhyphen"/>dence of things not ſeen,</hi> Heb. 11.1. Faith teacheth us that all things were made by God of nothing, verſ. 3. Reaſon cannot reach this; and in that Chapter we have many examples above reaſon, which our faith is engaged to beleeve. As <hi>Abels</hi> ſpeak<g ref="char:EOLhyphen"/>ing being dead, <hi>Enochs</hi> tranſlation, <hi>Noahs</hi> Arke, <hi>Sarahs</hi> Childe by <hi>Abraham</hi> in their old age, <hi>Iſaacks</hi> deliverance by the Ram, <hi>Moſes</hi> preſervation in the Flagges, &amp;c.</p>
+            <p>
+               <hi>Auguſtine</hi> ſaith, that the <hi>Saints know God, not by the outward ſen<g ref="char:EOLhyphen"/>ces, but in divine raviſhings.</hi> And ſo <hi>Paul</hi> told the <hi>Epheſians,</hi> that it was not from darke naturall Philoſophy, and carnall rea<g ref="char:EOLhyphen"/>ſon, but Gods opening of Beleevers eyes by Divine inlight<g ref="char:EOLhyphen"/>nings, that they come by faith to know what is the hope of their calling, and the riches of the glory of Chriſts Inheritance
+<pb n="12" facs="tcp:117861:8"/>in them, <hi>Epheſ.</hi> 1.17. For we are ſaved by grace through faith, which is not to be attained unto by reaſon of our ſelves; it muſt be beleeved above reaſon, becauſe even faith it ſelfe is the gift of God alſo, <hi>Epheſ.</hi> 2.8.</p>
+            <p>
+               <hi>Peter Martyr</hi> tels us, that <hi>Faith abundantly gathereth out of the holy Scriptures</hi> the knowledge of God, as much as ſufficeth to Salvation, or as much as this our life is able to receive; yet <hi>Paul</hi> teſtifieth this knowledg to be unperfect; For now we know him by a Glaſſe in a ſhadow, and but partly; Who knew that his reaſon could not apprehend what his faith could reach, but by beleeving preſſed forwards towards the price of the high Calling of God in Chriſt Jeſus, <hi>Phil.</hi> 3.12, 13, 14.</p>
+            <p>In a word, the eye hath not ſeen, nor eare heard, neither hath it entred into the heart of man, by reaſon, to know the things which by faith we are to beleeve God hath prepared for them that love him, 1 <hi>Cor.</hi> 2.9, 10, 11, 12.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117861:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
